@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_3D.unity
+    guid: be468b5fd092b694ca76e7ac0eefe75b
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_Maze.unity
+    guid: d6d728f702893c74793437549d5557e6
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_3D.unity
+    guid: 643c5f0fb18425a49a4c57800aaea570
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_Maze.unity
+    guid: e048b298025f4e64ab4a8b870ae1ad16
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_Demo.unity
+    guid: d1c39175571d4984580b83007aa1399f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Cylindrical_3D.unity
+    guid: 910eeb9a76b48004aba5d05ed48c99ca
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Cylindrical_Maze.unity
+    guid: 4f90480f0bc9ba547836330ce10dabe4
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Cylindrical_Object1.unity
+    guid: 3489746bb7037aa4cab67f009609d0d2
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Cylindrical_Object2.unity
+    guid: 7c1d6d8dc34ba9e47a54d0c77ea99faf
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Teleport_3D.unity
+    guid: 38319907fdc776b4a99985f440dd11c4
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Teleport_Demo.unity
+    guid: a3ea5cbbed2ef4e42a142ac89a604ec9
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Teleport_Maze.unity
+    guid: 1a38fdd44db4d334f8737a125d772e29
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Teleport_Object1.unity
+    guid: 967cdcd09a68727499a36ccb807613a3
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Teleport_Object2.unity
+    guid: e5986c9ee9c85d54cb894cad9dcbb041
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_Object1.unity
+    guid: d3645d86cf7a47d41ac38f41f947a47c
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_Object1.unity
+    guid: f64562480d9f3204c838d419a9741da8
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_Object2.unity
+    guid: 54ec89fe130219f4aa9ea339378af049
+  - enabled: 0
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_Object3.unity
+    guid: 7aa89184278274e4ba415d31702ebaad
+  - enabled: 0
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_Object3.unity
+    guid: e23779c1816a20841a6372ddc5aa082e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_DemoObj.unity
+    guid: 154d5556fd7a8af40befc8b0f965243b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_DemoObj.unity
+    guid: 16020ae925629394f8c86851e362c018
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Grid_Object2.unity
+    guid: 4b76f605557c7b642a06460a6957dd69
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Sphere_Demo.unity
+    guid: baf896732e5bf1c41857b5d963d7ab00
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_VoiceTooTeleport.unity
+    guid: 903fd86d191e3c34db0bbafc3ddfbca9
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_Demo_LeanTooMove.unity
+    guid: 7c929226edc03b64cb353e07509ed02e
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_Demo_VoiceTooMove.unity
+    guid: c7d96f4746e81044c927f95f28157bab
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_Demo_VoiceTooTeleport.unity
+    guid: 194907eddd10fad4880b336bde8be5a2
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_VoiceTooTeleport_Reverse.unity
+    guid: a6843863ad66b4b4c9a245956a021f01
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_LeanTooMove.unity
+    guid: 49f25bce6ca5ff64cbc7fb9fb8a9c269
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_LeanTooMove_Reverse.unity
+    guid: fc790458afdc8d04fa944cb91ece68f2
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_VoiceTooMove.unity
+    guid: d0a5e67a6b9a5a44a896644e068fd613
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_VoiceTooMove_Reverse.unity
+    guid: a3ba19ec09fd93042850950c7da8db6a
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_Demo_VoiceTooTeleportNumber.unity
+    guid: e59851d291712d749bcfa06178319bb6
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_VoiceTooTeleportNumber.unity
+    guid: 772d902575c10be4f8df6d0b722a2111
+  - enabled: 0
+    path: Assets/Scenes/VR_LocomotionEvaluation/VR_Locomotion_VoiceTooTeleportNumber_Reverse.unity
+    guid: ffa6b92e55d4438419614bd6a67ce43b
+  - enabled: 1
+    path: Assets/Scenes/VR_EvaluationVoiceGrids/VR_Voice_Cylindrical_Demo.unity
+    guid: c4bf655f26590d44db9a07db69b4fab0
+  m_configObjects: {}
