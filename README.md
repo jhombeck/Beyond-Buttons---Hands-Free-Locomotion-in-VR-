@@ -15,7 +15,7 @@ The project is optimized for use with the Valve Index for a complete experience.
 
 ### Step 1: Download the Required Repositories
 - Clone the Git repository from GitHub — [Beyond Buttons](https://github.com/jhombeck/Beyond-Buttons---Hands-Free-Locomotion-in-VR-/)
-- Download the Docker repository from Zenodo — [Zenodo Repository](10.5281/zenodo.17037327)
+- Download the Docker repository from Zenodo — [Zenodo Repository](https://doi.org/10.5281/zenodo.17037327)
 
 ### Step 2: Download and Install Unity Hub
 - Download Unity Hub from [Unity Hub](https://unity.com/unity-hub)
