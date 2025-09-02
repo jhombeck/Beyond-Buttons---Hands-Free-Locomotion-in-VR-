@@ -57,23 +57,7 @@ public class SceneManager : MonoBehaviour
         {
             mic.StopRecording();
         }
-        if (Input.GetKeyDown(KeyCode.Keypad1))
-        {
-            _locomotionTechnique = TechniqueOptions.Cartesian;
-            EnableVis();
-        }
-        if (Input.GetKeyDown(KeyCode.Keypad2))
-        {
-            _locomotionTechnique = TechniqueOptions.Cylindrical;
-            EnableVis();
-            CylindricSpawner.BuildSlice(0);
-        }
-        if (Input.GetKeyDown(KeyCode.Keypad2))
-        {
-            _locomotionTechnique = TechniqueOptions.Polar;
-            EnableVis();
-            SphereSpawner.BuildSlice(0);
-        }
+
         // Mute And Unmute Mic
         if (SteamVR_Actions._default.InteractUI.GetStateDown(SteamVR_Input_Sources.LeftHand))
         {
