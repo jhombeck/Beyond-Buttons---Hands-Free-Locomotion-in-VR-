@@ -36,7 +36,9 @@ The project is optimized for use with the Valve Index for a complete experience.
   ```bash docker-compose up --build ```
   - **Note:** A running instance of Docker Desktop in the background is required to execute this command.
   - This process may take some time as all necessary components are installed.
-
+### Step 4 : Get your gemini API key
+ - Create your personal free API key for gemini — [Google AI Studio](https://aistudio.google.com/app/apikey)
+ - Add this key to the **.env** file in the docker container under "app\backend\service_speech_langchain\src"
 ---
 
 ## Running the Application with Voice Control
